@@ -1,0 +1,11 @@
+📄 LookMaxPro AI — Privacy Policy
+
+LookMaxPro AI, developed by PimpreTech, values your privacy. This Privacy Policy explains how we collect, use, and safeguard your data. The app may collect limited personal information such as your device ID and, optionally, your age and gender to personalize the AI analysis experience. We do not collect your name, email, or exact location by default.
+
+When you upload photos for facial analysis, they are either processed locally on your device or through secure Firebase Cloud Functions. In some cases, analysis may involve temporary processing through AI services like MediaPipe or Google APIs. However, your photos are not stored permanently or shared with third parties unless explicitly required for features like progress tracking.
+
+We use third-party services including Firebase (for authentication, database management, and analytics), Google Analytics (to understand user behavior), AdMob (for displaying ads), and MediaPipe/TensorFlow Lite (for facial analysis). Additional AI APIs may be used to improve accuracy and personalization.
+
+Users have full control over their data. You can delete your personal data at any time using the in-app “Delete My Data” button (if available), or by contacting us at pimpretech@gmail.com. We will ensure that all your data, including those stored in Firebase and other services, are deleted within 7 days of the request.
+
+You have the right to access, update, or delete your information at any time. We never sell or rent your personal data to third parties.
